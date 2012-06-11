@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "MDN: Search Selection",
+        "command": "mdn_search_selection"
+    },
+    {
+        "caption": "MDN: Search from Input",
+        "command": "mdn_search_from_input"
+    }
+]

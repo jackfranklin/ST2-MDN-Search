@@ -1,0 +1,25 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Search MDN",
+                "id": "mdnsearch",
+                "children":
+                [
+                    {
+                        "command": "mdn_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "mdn_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]
