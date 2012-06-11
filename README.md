@@ -1,3 +1,7 @@
+#MDN what?
+
+MDN = Mozilla Developer Network, one of the best developer resources that not enough people seem to use.
+
 #MDN Search from Sublime Text 2
 
 This plugin will let you search MDN either by the word(s) selected or through the command palette and letting you input a search query.
