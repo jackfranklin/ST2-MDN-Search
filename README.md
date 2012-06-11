@@ -12,3 +12,4 @@ Clone, and drop folder into your packages directory. Soon (but not yet) you shou
 
 Highlight text, right click & click "Search MDN". You can also go through the tools menu. Else, bring up the palette and type "MDN Search" to bring up the options.
 
+![](http://cl.ly/1a0o0A3g1w0F2g0i1z0x/Screen%20Shot%202012-06-11%20at%2015.54.50.png)
