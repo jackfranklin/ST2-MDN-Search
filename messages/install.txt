@@ -1,3 +1,0 @@
-Thanks for installing my search MDN plugin for Sublime Text 2.
-
-Please direct all issues and feedback to the Github Repo:
