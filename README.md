@@ -8,11 +8,9 @@ This plugin will let you search MDN either by the word(s) selected or through th
 
 Huge thanks to [Eric Martel for his SO Search plugin](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin) which served as a base for mine, so most of this code is his.
 
-#Installation
+#Installation - Now in Package Control!
 
-Clone, and drop folder into your packages directory. Soon (but not yet) you should be able to access it through the package control plugin.
-
-I have made a pull request to the package control repository so hopefully soon this will be available through there, which will make everything easier.
+If you're using Package Control (and you should), simply search for "MDN Search" and install it. Done.
 
 #Usage
 
